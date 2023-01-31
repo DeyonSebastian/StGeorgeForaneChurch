@@ -1,1 +1,2 @@
-Church Website
+# St George Forane Church Website
+
